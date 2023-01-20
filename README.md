@@ -8,7 +8,7 @@ A Web & Mobile Developer, i've been learning web development for 4+ years, build
 
 * 🌍  I'm based in Lombok, NTB
 * ✉️  You can contact me at [satrialipatullah@gmail.com](mailto:satrialipatullah@gmail.com)
-* 🧠  I'm learning Solidity, Near
+* 🧠  I'm learning Solidity, Everscale & Ton Solidity
 * 🤝  I'm open to collaborating on Web development with ReactJS/NextJS and Mobile App Development with React Native, and also ExpressJS & NestJS for backend
 * ⚡  Tech Enthusiast: I love following Computer Hardware development & Web technologies(frameworks etc)
 
