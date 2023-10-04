@@ -4,11 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 JavaScript Developer
 --------------------
 
-A Web & Mobile Developer, i've been learning web development for 4+ years, building things with HTML,CSS & JavaScript
+A Web & Mobile Developer, i've been learning web development for 4+ years, building things with TypeScrirpt,HTML,CSS & JavaScript
 
 * 🌍  I'm based in Lombok, NTB
 * ✉️  You can contact me at [satrialipatullah@gmail.com](mailto:satrialipatullah@gmail.com)
-* 🧠  I'm learning Solidity, Everscale & Ton Solidity
 * 🤝  I'm open to collaborating on Web development with ReactJS/NextJS and Mobile App Development with React Native, and also ExpressJS & NestJS for backend
 * ⚡  Tech Enthusiast: I love following Computer Hardware development & Web technologies(frameworks etc)
 
