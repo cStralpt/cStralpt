@@ -5,7 +5,7 @@
 
  </p>
 
-- 🔭 I’m currently working on a project - **Decentralized VC Platform**
+- 🔭 I’m currently working on a project - **Decentralized Crosschain Token Bridge Mobile App**
 
 - 👯 I’m looking to collaborate on **Web3,Solidity,Hardhat TypeScrpt & Mobile App Development with React Native**
 
